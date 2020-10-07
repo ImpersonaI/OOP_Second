@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.exe
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.deps.json
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.runtimeconfig.json
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.dll
+C:\Users\Роман\source\repos\OOP_second\OOP_second\bin\Debug\netcoreapp3.1\OOP_second.pdb
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.AssemblyInfo.cs
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.dll
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.pdb
+C:\Users\Роман\source\repos\OOP_second\OOP_second\obj\Debug\netcoreapp3.1\OOP_second.genruntimeconfig.cache
