@@ -31,7 +31,7 @@ namespace OOP_second
                 if (number == baseofcriminals[i])
                 {
                     flag = true;
-                    Console.WriteLine(fio + ", your car`s car = " + power + " and you must pay " + baseofpunishment[i] + " rubles for the crime you have commited");
+                    Console.WriteLine(fio + ", your car`s power = " + power + " and you must pay " + baseofpunishment[i] + " rubles for the crime you have commited");
                 }
                                 
             }
